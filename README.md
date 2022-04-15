@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SpringBoard Software Engineering Career Track**
 
-<p align="left">
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
