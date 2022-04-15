@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-ReactJS-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge" /img>
+  <img src="https://img.shields.io/badge/-ReactJS-%2320232a?logo=react&logoColor=%2361DAFB&style=for-the-badge" /img>
 </p>
 
 
