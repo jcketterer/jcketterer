@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋 I'm JC</h1>
 
-<p align="center">
-  <img href="https://github.com/jcketterer" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
-  <img href="https://github.com/jcketterer" src="https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue">
+<p align="center">  
+  <img href="https://www.linkedin.com/in/jc-ketterer-01709295/" src="https://img.shields.io/badge/Linkedin-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue">
 </p>
 
 
