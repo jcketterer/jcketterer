@@ -7,7 +7,7 @@
 
 <h3 align="center">Aspiring Software Engineer trying to find his way...</h3>
 
-- 🌱 I’m currently learning **SpringBoard Software Engineering Career Track**
+- Graduate of the **SpringBoard Software Engineering Career Track**
 
 <p align="center">
 </p>
