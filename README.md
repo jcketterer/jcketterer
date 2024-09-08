@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">Aspiring Data Analyst/Software Engineer trying to find his way...</h3>
+<h3 align="center">Experienced Data Analyst</h3>
 
 - Graduate of the **SpringBoard Software Engineering Career Track**
 
